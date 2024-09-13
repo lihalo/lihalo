@@ -1,4 +1,11 @@
 ## Hi there 👋
+### A little about me
+
+- [School](https://valenciacollege.edu/) - I'm currently attending Valencia College for an AS in Computer Programming and Analysis 
+- Fave class so far gotta be _Java_, so I'm really excited to take _Advanced Java_ this semester
+- I am originally from Sweden but moved to Florida a couple of years ago to pursue my education
+- I'm only here to learn... So for right now I'm sticking to Java but will hopefully get into some other languages soon.
+
 
 <!--
 **lihalo/lihalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
